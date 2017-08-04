@@ -1,0 +1,2 @@
+# myrigs
+Mining Rigs Monitor
